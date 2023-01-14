@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "product_name": "Tomat",
+      "price": 12000,
+      "stock": 800
+    },
+    {
+      "id": 2,
+      "product_name": "Cabai",
+      "price": 9000,
+      "stock": 800
+    },
+    {
+      "id": 3,
+      "product_name": "Bawang",
+      "price": 1000,
+      "stock": 800
+    },
+    {
+      "id": 4,
+      "product_name": "Laos",
+      "price": 12000,
+      "stock": 800
+    },
+    {
+      "id": 5,
+      "product_name": "Sereh",
+      "price": 12500,
+      "stock": 800
+    },
+    {
+      "id": 6,
+      "product_name": "Jahe",
+      "price": 13000,
+      "stock": 800
+    },
+    {
+      "id": 7,
+      "product_name": "Ketumbar",
+      "price": 2000,
+      "stock": 800
+    },
+    {
+      "id": 8,
+      "product_name": "Lada",
+      "price": 3000,
+      "stock": 800
+    },
+    {
+      "id": 8,
+      "product_name": "Asam Jawa",
+      "price": 5000,
+      "stock": 800
+    },
+    {
+      "id": 8,
+      "product_name": "Cengkeh",
+      "price": 7000,
+      "stock": 800
+    }
+  ]
+  
